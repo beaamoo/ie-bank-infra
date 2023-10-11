@@ -6,19 +6,19 @@
             "value": "nonprod"
         },
         "postgreSQLServerName": {
-            "value": "bmossberg-dbsrv-dev"
+            "value": "bmossberg-dbsrv-uat"
         },
         "postgreSQLDatabaseName": {
-            "value": "bmossberg-db-dev"
+            "value": "bmossberg-db-uat"
         },
         "appServicePlanName": {
-            "value": "bmossberg-asp-dev"
+            "value": "bmossberg-asp-uat"
         },
         "appServiceAPIAppName": {
-            "value": "bmossberg-be-dev"
+            "value": "bmossberg-be-uat"
         },
         "appServiceAppName": {
-            "value": "bmossberg-fe-dev"
+            "value": "bmossberg-fe-uat"
         },
         "location": {
             "value": "Sweden Central"
