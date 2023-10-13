@@ -20,6 +20,12 @@
         "appServiceAppName": {
             "value": "bmossberg-fe-uat"
         },
+        "azureMonitorName": {
+            "value": "aguadamillas-am"
+            },
+        "appInsightsName": {
+            "value": "aguadamillas-ai"
+        },
         "location": {
             "value": "Sweden Central"
         }
