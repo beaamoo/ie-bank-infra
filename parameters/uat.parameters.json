@@ -21,10 +21,10 @@
             "value": "bmossberg-fe-uat"
         },
         "azureMonitorName": {
-            "value": "aguadamillas-am"
+            "value": "bmossberg-am"
             },
         "appInsightsName": {
-            "value": "aguadamillas-ai"
+            "value": "bmossberg-ai"
         },
         "location": {
             "value": "Sweden Central"

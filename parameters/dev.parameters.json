@@ -20,6 +20,12 @@
         "appServiceAppName": {
             "value": "bmossberg-fe-dev"
         },
+        "azureMonitorName": {
+            "value": "bmossberg-am"
+            },
+        "appInsightsName": {
+            "value": "bmossberg-ai"
+        },
         "location": {
             "value": "Sweden Central"
         }
