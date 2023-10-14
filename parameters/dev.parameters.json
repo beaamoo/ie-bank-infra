@@ -21,13 +21,13 @@
             "value": "bmossberg-fe-dev"
         },
         "azureMonitorName": {
-            "value": "bmossberg-am"
+            "value": "bmossberg-am-dev"
             },
         "appInsightsName": {
-            "value": "bmossberg-ai"
+            "value": "bmossberg-ai-dev"
         },
         "location": {
-            "value": "Sweden Central"
+            "value": "Japan East"
         }
     }
 }
