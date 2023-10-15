@@ -2,32 +2,32 @@
     "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
     "contentVersion": "1.0.0.0",
     "parameters": {
-        "environmentType": {
-            "value": "nonprod"
-        },
-        "postgreSQLServerName": {
-            "value": "bmossberg-dbsrv-dev"
-        },
-        "postgreSQLDatabaseName": {
-            "value": "bmossberg-db-dev"
-        },
-        "appServicePlanName": {
-            "value": "bmossberg-asp-dev"
-        },
-        "appServiceAPIAppName": {
-            "value": "bmossberg-be-dev"
-        },
-        "appServiceAppName": {
-            "value": "bmossberg-fe-dev"
-        },
-        "azureMonitorName": {
-            "value": "bmossberg-am-dev"
-            },
-        "appInsightsName": {
-            "value": "bmossberg-ai-dev"
-        },
-        "location": {
-            "value": "Japan East"
-        }
+      "environmentType": {
+        "value": "nonprod"
+      },
+      "postgreSQLServerName": {
+        "value": "beaamoo-dbsrv-dev"
+      },
+      "postgreSQLDatabaseName": {
+        "value": "beaamoo-db-dev"
+      },
+      "appServicePlanName": {
+        "value": "beaamoo-asp-dev"
+      },
+      "appServiceAPIAppName": {
+        "value": "beaamoo-be-dev"
+      },
+      "appServiceAppName": {
+        "value": "beaamoo-fe-dev"
+      },
+      "azureMonitorName": {
+        "value": "beaamoo-am-dev"
+      },
+      "appInsightsName": {
+        "value": "beaamoo-ai-dev"
+      },
+      "location": {
+        "value": "Brazil South"
+      }
     }
-}
+  }

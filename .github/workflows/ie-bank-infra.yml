@@ -7,7 +7,8 @@ env:
   RESOURCE_GROUP_UAT: aguadamillas_students_1
   SUBSCRIPTION_ID_DEV: e0b9cada-61bc-4b5a-bd7a-52c606726b3b
   SUBSCRIPTION_ID_UAT: e0b9cada-61bc-4b5a-bd7a-52c606726b3b
-  USER_ALIAS: bmossberg
+  USER_ALIAS: beaamoo
+
 
 jobs:
   build:
@@ -28,8 +29,8 @@ jobs:
       name: "Development"
     env:
       ENV: dev
-      DBHOST: bmossberg-dbsrv-dev.postgres.database.azure.com
-      DBNAME: bmossberg-db-dev
+      DBHOST: beaamoo-dbsrv-dev.postgres.database.azure.com
+      DBNAME: beaamoo-db-dev
       FLASK_APP: app.py
       FLASK_DEBUG: 1
 
@@ -60,8 +61,8 @@ jobs:
       name: "User Acceptance Testing"
     env:
       ENV: uat
-      DBHOST: bmossberg-dbsrv-uat.postgres.database.azure.com
-      DBNAME: bmossberg-db-uat
+      DBHOST: beaamoo-dbsrv-uat.postgres.database.azure.com
+      DBNAME: beaamoo-db-uat
       FLASK_APP: app.py
       FLASK_DEBUG: 1
 

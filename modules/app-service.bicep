@@ -5,6 +5,7 @@ param appServiceAPIAppName string
 param appServiceAPIEnvVarENV string
 param appServiceAPIEnvVarDBHOST string
 param appServiceAPIEnvVarDBNAME string
+
 @secure()
 param appServiceAPIEnvVarDBPASS string
 param appServiceAPIDBHostDBUSER string
